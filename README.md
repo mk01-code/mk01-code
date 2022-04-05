@@ -7,7 +7,7 @@
 - 💻 You can check out my projects here (add website) or on my GitHub profile.
 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+<b>Skills: VUE JS / REACT / JS / HTML / CSS</b>
 
 
 
