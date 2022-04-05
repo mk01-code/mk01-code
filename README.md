@@ -1,5 +1,13 @@
-### Hello there!
+### Hi there 👋, my name is Mateusz!
+#### I'm Front-end Developer
 
-👋 I’m Mateusz and I'm Front-end Developer, currently studying Computer Science at Politechnika Opolska. 
-   Still learning and looking for oportunities.
+
+- 🔭 Currently studying Computer Science at Politechnika Opolska.
+- 🔍 Looking for first internship or job as a Junior Front-end Developer.
+- 💻 You can check out my projects here (add website) or on my GitHub profile.
+
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+
 
